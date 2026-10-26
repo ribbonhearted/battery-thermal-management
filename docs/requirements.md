@@ -1,6 +1,6 @@
 # Requirements: Battery Thermal Management
 
-Operating point: 
+Operating point: Operating point: one 12S1P module of Samsung SDI 94 Ah cells, cooling limit 400 W
 
 | ID | Requirement | Checked under (test conditions) |
 |---|---|---|
